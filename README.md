@@ -215,6 +215,6 @@ Remember: This skill is a living document. The more you use and refine it, the m
 ---
 
 **Version:** 1.0  
-**Created:** [Date]  
-**Last Updated:** [Date]  
-**Maintained By:** [Your Name/Team]
+**Created:** 13-02-2026  
+**Last Updated:** 13-02-2026  
+**Maintained By:** Dhiraj Patra
